@@ -1,0 +1,9 @@
+{
+    "redux": false,
+    "hot-reloading": true,
+    "build": true,
+    "typescript": true,
+    "styled-components": false,
+    "jest": false,
+    "cypress": false
+}
